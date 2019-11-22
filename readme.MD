@@ -22,11 +22,11 @@ npm start
 
 Create an HTML layout based on the following image
 
-![Nain design](https://alfonsoluis.github.com/src/images/desktop.jpg)
+![Main design](https://raw.githubusercontent.com/alfonsoluis/layout-exercise/master/src/images/desktop.jpg)
 
 And using the following structure
 
-![Box model structure](https://alfonsoluis.github.com/images/structure.jpg)
+![Box model structure](https://raw.githubusercontent.com/alfonsoluis/layout-exercise/master/src/images/structure.jpg)
 
 
 ## Contributing
